@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,vuejs,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,javascript,nodejs,typescript,c,firebase,mongodb,mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,vuejs,bootstrap,docker" />
+  <img src="https://skillicons.dev/icons?i=rails,ruby,javascript,nodejs,mysql,postgresql" /><br>
 </div>
 
 <br/>
