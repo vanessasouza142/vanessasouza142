@@ -3,8 +3,8 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,sass,vuejs,bootstrap,docker" />
-  <img src="https://skillicons.dev/icons?i=rails,ruby,javascript,nodejs,mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,sass,vuejs,bootstrap,dbeaver,docker" />
+  <img src="https://skillicons.dev/icons?i=rails,ruby,javascript,nodejs,rspec,mysql,postgresql" /><br>
 </div>
 
 <br/>
